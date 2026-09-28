@@ -10,4 +10,4 @@
 | 1 |lab1| :--: | :--: |
 | 2 |lab2| :--: | :--: |
 
-! [картинка 1]()
+! [картинка 1](https://cdn-storage-media.tass.ru/resize/1312x868/tass_media/2025/08/14/u/1755162070383960_uQVDofFg.jpg)
